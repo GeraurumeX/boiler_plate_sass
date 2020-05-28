@@ -1,0 +1,16 @@
+{
+    "name": "boilerplate_sass",
+    "version": "1.0.0",
+    "description": "Boiler plate for sass projects",
+    "main": "index.js",
+    "scripts": {
+        "start": "gulp"
+    },
+    "author": "Gerardo Agustin",
+    "license": "ISC",
+    "devDependencies": {
+        "browser-sync": "^2.26.7",
+        "gulp": "^4.0.2",
+        "gulp-sass": "^4.1.0"
+    }
+}
